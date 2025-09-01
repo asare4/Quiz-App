@@ -1,3 +1,4 @@
+import { HashRouter as Router } from "react-router-dom";
 import React from 'react'
 import Quiz from './components/Quiz/Quiz'
 
